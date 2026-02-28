@@ -1,6 +1,6 @@
 # RGB分析アプリ（Color Picker）
 URL：https://github.com/upotsu/ColorPicker/releases
-
+　
 # ■ 目的
 
 キャラクターデザイン作成時に、参照素材の配色（RGB / HSV / HEX）を正確に取得するためのカラーピッカーを作成。
